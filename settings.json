@@ -1,0 +1,49 @@
+{
+    "workbench.colorTheme": "Jellybeans Theme",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.scrollbar.verticalScrollbarSize": "0",
+    "vsicons.dontShowNewVersionMessage": true,
+    "zenMode.hideLineNumbers": false,
+    "window.zoomLevel": 0,
+    "todohighlight.isCaseSensitive": false,
+    "todohighlight.keywords": [
+        "DEBUG",
+        //"REVIEW",
+        {
+            "text": "NOTE",
+            "color": "#ff0000",
+            "backgroundColor": "yellow",
+            "overviewRulerColor": "grey"
+        },
+        {
+            "text": "HACK",
+            "color": "#000",
+            "isWholeLine": false,
+        },
+        {
+            "text": "TODO",
+            "color": "red",
+            "border": "1px solid red",
+            "borderRadius": "2px", //NOTE: using borderRadius along with `border` or you will see nothing change
+            "backgroundColor": "rgba(0,0,0,.2)",
+            //other styling properties goes here ... 
+        }
+    ],
+    "todohighlight.include": [
+        "**/*.js",
+        "**/*.jsx",
+        "**/*.ts",
+        "**/*.tsx",
+        "**/*.xaml",
+        "**/*.cs",
+        "**/*.xaml.cs",
+        "**/*.scad",
+
+    ],
+    "editor.smoothScrolling": true,
+    "explorer.confirmDelete": false,
+    "editor.minimap.showSlider": "always",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "zenMode.hideTabs": false,
+}
