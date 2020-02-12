@@ -1,0 +1,15 @@
+Extensions
+
+Color Theme:
+    - Jellybeans Theme          -- Dimitar Nonov
+
+General Extensions:
+    - Bookmarks                 -- Alessandro Fragnani
+    - C#                        -- Microsoft
+    - Color Highlight           -- Sergii Naumov
+    - Fold/unfold all icone     -- Ferrier Benjamin
+    - Project Manager           -- Alessandro Fragnani
+    - scad                      -- Erik Benson
+    - TODO Highlight            -- Wayou Liu
+    - Trailing Spaces           -- Shardul Mahadik
+    - vscode-icons              -- VSCode Icons Team
