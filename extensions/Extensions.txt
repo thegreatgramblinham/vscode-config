@@ -13,3 +13,4 @@ General Extensions:
     - TODO Highlight            -- Wayou Liu
     - Trailing Spaces           -- Shardul Mahadik
     - vscode-icons              -- VSCode Icons Team
+    - XML Tools                 -- Josh Johnson
