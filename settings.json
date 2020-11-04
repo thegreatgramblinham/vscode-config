@@ -26,7 +26,7 @@
             "border": "1px solid red",
             "borderRadius": "2px", //NOTE: using borderRadius along with `border` or you will see nothing change
             "backgroundColor": "rgba(0,0,0,.2)",
-            //other styling properties goes here ... 
+            //other styling properties goes here ...
         }
     ],
     "todohighlight.include": [
@@ -46,4 +46,5 @@
     "editor.acceptSuggestionOnCommitCharacter": false,
     "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
     "zenMode.hideTabs": false,
+    "omnisharp.enableMsBuildLoadProjectsOnDemand": true,
 }
