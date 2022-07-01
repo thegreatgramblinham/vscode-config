@@ -1,16 +1,18 @@
 Extensions
 
 Color Theme:
-    - Jellybeans Theme          -- Dimitar Nonov
+    - Jellybeans Theme          -- Dimitar Nonov            //todo add identifiers & update bat
 
 General Extensions:
     - Bookmarks                 -- Alessandro Fragnani
+    - C++                       -- Microsoft
     - C#                        -- Microsoft
     - Color Highlight           -- Sergii Naumov
     - Fold/unfold all icone     -- Ferrier Benjamin
+    - Git History               -- Don Jayamanne
     - Project Manager           -- Alessandro Fragnani
     - scad                      -- Erik Benson
-    - TODO Highlight            -- Wayou Liu
+    - TODO Highlight v2         -- Jonathan Clark
     - Trailing Spaces           -- Shardul Mahadik
     - vscode-icons              -- VSCode Icons Team
     - XML Tools                 -- Josh Johnson

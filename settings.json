@@ -1,13 +1,11 @@
 {
-    "workbench.colorTheme": "Jellybeans Theme",
     "workbench.iconTheme": "vscode-icons",
     "editor.scrollbar.verticalScrollbarSize": "0",
     "vsicons.dontShowNewVersionMessage": true,
     "zenMode.hideLineNumbers": false,
-    "window.zoomLevel": 0,
     "todohighlight.isCaseSensitive": false,
     "todohighlight.keywords": [
-        "DEBUG",
+        //"DEBUG",
         //"REVIEW",
         {
             "text": "NOTE",
@@ -46,5 +44,15 @@
     "editor.acceptSuggestionOnCommitCharacter": false,
     "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
     "zenMode.hideTabs": false,
-    "omnisharp.enableMsBuildLoadProjectsOnDemand": true,
+    "timeline.excludeSources": [],
+    "workbench.editor.wrapTabs": true,
+    "search.searchOnType": false,
+    "workbench.editor.decorations.colors": true,
+    "workbench.editor.decorations.badges": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.renderWhitespace": "none",
+    "extensions.ignoreRecommendations": true,
+    "workbench.colorTheme": "Jellybeans Theme",
+    "telemetry.telemetryLevel": "off",
+    "editor.bracketPairColorization.enabled": false,
 }
