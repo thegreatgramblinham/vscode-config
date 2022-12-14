@@ -1,5 +1,10 @@
-Extensions
+Overview
+==================
+This repository hosts related config files for VSCode ease-of-setup and recieves intermittent updates as those settings require tweaking.
 
+
+Extensions
+==================
 Color Theme:
     - Jellybeans Theme           -- Dimitar Nonov            -- dimitarnonov.jellybeans-theme
 
