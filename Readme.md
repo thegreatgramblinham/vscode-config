@@ -18,5 +18,6 @@ General Extensions:
  - OpenSCAD                   -- Antyos                   -- antyos.openscad
  - TODO Highlight v2          -- Jonathan Clark           -- jgclark.vscode-todo-highlight
  - Trailing Spaces            -- Shardul Mahadik          -- shardulm94.trailing-spaces
+ - Vim                        -- ??                       -- vscodevim.vim
  - vscode-icons               -- VSCode Icons Team        -- vscode-icons-team.vscode-icons
  - XML Tools                  -- Josh Johnson             -- dotjoshjohnson.xml

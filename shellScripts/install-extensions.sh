@@ -11,6 +11,7 @@ code --install-extension alefragnani.project-manager
 code --install-extension antyos.openscad
 code --install-extension jgclark.vscode-todo-highlight
 code --install-extension shardulm94.trailing-spaces
+code --install-extension vscodevim.vim
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension dotjoshjohnson.xml
 

@@ -11,6 +11,7 @@ code --uninstall-extension alefragnani.project-manager
 code --uninstall-extension antyos.openscad
 code --uninstall-extension jgclark.vscode-todo-highlight
 code --uninstall-extension shardulm94.trailing-spaces
+code --uninstall-extension vscodevim.vim
 code --uninstall-extension vscode-icons-team.vscode-icons
 code --uninstall-extension dotjoshjohnson.xml
 
