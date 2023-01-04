@@ -61,6 +61,6 @@
     "color-highlight.matchWords": true,
     "vim.highlightedyank.enable": true,
     "vim.scroll": 17,
-    "editor.cursorSurroundingLines": 10,
+    "editor.cursorSurroundingLines": 20,
     "vim.foldfix": true,
 }
