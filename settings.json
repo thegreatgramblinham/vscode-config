@@ -63,4 +63,8 @@
     "vim.scroll": 17,
     "editor.cursorSurroundingLines": 20,
     "vim.foldfix": true,
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingOvertype": "never",
+    "editor.autoClosingQuotes": "never",
 }
