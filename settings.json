@@ -67,4 +67,5 @@
     "editor.autoClosingDelete": "never",
     "editor.autoClosingOvertype": "never",
     "editor.autoClosingQuotes": "never",
+    "vim.smartRelativeLine": true,
 }
