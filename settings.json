@@ -57,8 +57,6 @@
     "editor.cursorStyle": "block",
     "editor.renderLineHighlight": "all",
     "editor.bracketPairColorization.enabled": false,
-    "color-highlight.matchRgbWithNoFunction": true,
-    "color-highlight.matchWords": true,
     "vim.highlightedyank.enable": true,
     "vim.scroll": 17,
     "editor.cursorSurroundingLines": 20,
@@ -68,4 +66,7 @@
     "editor.autoClosingOvertype": "never",
     "editor.autoClosingQuotes": "never",
     "vim.smartRelativeLine": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "color-highlight.markerType": "outline",
+    "color-highlight.matchWords": true,
 }
