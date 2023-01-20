@@ -1,5 +1,5 @@
 {
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "jetbrainsicons",
     "editor.scrollbar.verticalScrollbarSize": "0",
     "vsicons.dontShowNewVersionMessage": true,
     "zenMode.hideLineNumbers": false,

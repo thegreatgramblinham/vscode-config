@@ -12,12 +12,10 @@ General Extensions:
  - Bookmarks                  -- Alessandro Fragnani      -- alefragnani.bookmarks
  - C++                        -- Microsoft                -- ms-vscode.cpptools
  - Color Highlight            -- Sergii Naumov            -- naumovs.color-highlight
- - Fold/unfold all icone      -- Ferrier Benjamin         -- ferrierbenjamin.fold-unfold-all-icone
- - Git History                -- Don Jayamanne            -- donjayamanne.githistory
+ - JetBrains IDEA Icons       -- Mostik                   -- mostik.jetbrainsicons
+ - OpenSCAD Language Support  -- Leathong                 -- leathong.openscad-language-support
  - Project Manager            -- Alessandro Fragnani      -- alefragnani.project-manager
- - OpenSCAD                   -- Antyos                   -- antyos.openscad
  - TODO Highlight v2          -- Jonathan Clark           -- jgclark.vscode-todo-highlight
  - Trailing Spaces            -- Shardul Mahadik          -- shardulm94.trailing-spaces
  - Vim                        -- ??                       -- vscodevim.vim
- - vscode-icons               -- VSCode Icons Team        -- vscode-icons-team.vscode-icons
  - XML Tools                  -- Josh Johnson             -- dotjoshjohnson.xml
