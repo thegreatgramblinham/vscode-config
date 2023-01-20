@@ -172,5 +172,25 @@
         "key": "ctrl+f",
         "command": "-extension.vim_ctrl+f",
         "when": "editorTextFocus && vim.active && vim.use<C-f> && !inDebugRepl && vim.mode != 'Insert'"
+    },
+    {
+        "key": "ctrl+k shift+k",
+        "command": "workbench.action.pinEditor",
+        "when": "!activeEditorIsPinned"
+    },
+    {
+        "key": "ctrl+k shift+enter",
+        "command": "-workbench.action.pinEditor",
+        "when": "!activeEditorIsPinned"
+    },
+    {
+        "key": "ctrl+k shift+k",
+        "command": "workbench.action.unpinEditor",
+        "when": "activeEditorIsPinned"
+    },
+    {
+        "key": "ctrl+k shift+enter",
+        "command": "-workbench.action.unpinEditor",
+        "when": "activeEditorIsPinned"
     }
 ]
