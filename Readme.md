@@ -9,9 +9,8 @@ Color Theme:
  - Jellybeans Theme           -- Dimitar Nonov            -- dimitarnonov.jellybeans-theme
 
 General Extensions:
- - Bookmarks                  -- Alessandro Fragnani      -- alefragnani.bookmarks
- - C++                        -- Microsoft                -- ms-vscode.cpptools
  - Color Highlight            -- Sergii Naumov            -- naumovs.color-highlight
+ - Git History                -- Don Jayamanne            -- donjayamanne.githistory
  - JetBrains IDEA Icons       -- Mostik                   -- mostik.jetbrainsicons
  - OpenSCAD Language Support  -- Leathong                 -- leathong.openscad-language-support
  - Project Manager            -- Alessandro Fragnani      -- alefragnani.project-manager

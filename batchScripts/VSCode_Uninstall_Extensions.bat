@@ -3,9 +3,8 @@ ECHO Press ANY KEY to uninstall prefered VSCode extensions with the 'code' comma
 PAUSE
 ECHO == Started uninstalling...
 code --uninstall-extension dimitarnonov.jellybeans-theme >>
-code --uninstall-extension alefragnani.bookmarks >>
-code --uninstall-extension ms-vscode.cpptools >>
 code --uninstall-extension naumovs.color-highlight >>
+code --uninstall-extension donjayamanne.githistory>>
 code --uninstall-extension mostik.jetbrainsicons >>
 code --uninstall-extension leathong.openscad-language-support >>
 code --uninstall-extension alefragnani.project-manager >>

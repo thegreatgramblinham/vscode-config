@@ -3,9 +3,8 @@ ECHO Press ANY KEY to install prefered VSCode extensions with the 'code' command
 PAUSE
 ECHO == Started installing...
 code --install-extension dimitarnonov.jellybeans-theme >>
-code --install-extension alefragnani.bookmarks >>
-code --install-extension ms-vscode.cpptools >>
 code --install-extension naumovs.color-highlight >>
+code --install-extension donjayamanne.githistory>>
 code --install-extension mostik.jetbrainsicons >>
 code --install-extension leathong.openscad-language-support >>
 code --install-extension alefragnani.project-manager >>
